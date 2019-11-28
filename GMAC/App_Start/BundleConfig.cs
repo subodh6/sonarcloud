@@ -34,5 +34,6 @@ namespace GMAC
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                             "~/Scripts/modernizr-*"));
         }
+
     }
 }

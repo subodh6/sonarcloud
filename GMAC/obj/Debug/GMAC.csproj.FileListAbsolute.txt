@@ -204,7 +204,6 @@ C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\bin\System.Web.Optimization.xml
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\bin\Antlr3.Runtime.pdb
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\obj\Debug\GMAC.csprojAssemblyReference.cache
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\obj\Debug\GMAC.csproj.CopyComplete
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\obj\Debug\GMAC.dll
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\obj\Debug\GMAC.pdb

@@ -14,5 +14,6 @@ namespace GMAC
             settings.AutoRedirectMode = RedirectMode.Permanent;
             routes.EnableFriendlyUrls(settings);
         }
+        
     }
 }

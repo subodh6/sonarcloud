@@ -1,0 +1,15 @@
+{
+  "ServerUri": "https://sonarcloud.io/",
+  "Organization": {
+    "Key": "subodh66",
+    "Name": "RSISonarcloud"
+  },
+  "ProjectKey": "Rsyssonarcloud",
+  "ProjectName": "Rsyssonarcloud",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AW46G6-twoaPKW2lAk-w",
+      "ProfileTimestamp": "2019-10-29T13:57:27+05:30"
+    }
+  }
+}

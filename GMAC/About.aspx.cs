@@ -9,6 +9,8 @@ namespace GMAC
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            string name = Request.QueryString["name"];
+            Response.Write("Hello " + name); // Noncompliant
         }
     }
 }

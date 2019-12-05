@@ -207,3 +207,5 @@ C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\bin\Microsoft.CodeDom.Providers
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\obj\Debug\GMAC.csproj.CopyComplete
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\obj\Debug\GMAC.dll
 C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\obj\Debug\GMAC.pdb
+C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\bin\GMAC.dll.CodeAnalysisLog.xml
+C:\Users\subodh.chowdary\Desktop\sonarcloud\GMAC\bin\GMAC.dll.lastcodeanalysissucceeded
